@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Santos616
 - 👀 I’m interested in Technologies that amaze me.
-- 🌱 I’m currently learning nothing.
+- 🌱 I’m currently learning to do some projects.
 - 💞️ I’m looking to collaborate on projects.
 - 📫 How to reach me gmail asanthoshkumar01@gmail.com
 
