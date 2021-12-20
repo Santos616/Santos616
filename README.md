@@ -1,3 +1,9 @@
+![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
+<h1 align="center">
+  <a target="_blank">
+    <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Earth.gif" width="24px" style="max-width:100%;">
+  </a>
+
 - 👋 Hi, I’m @Santos616
 - 👀 I’m interested in Technologies that amaze me.
 - 🌱 I’m currently learning to do some projects.
